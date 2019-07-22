@@ -7,3 +7,6 @@ The final goal was to make a "Bar chart race" visualization
 
 I used flourish to make the visualization:
 https://flourish.studio
+
+Final visualization:
+https://public.flourish.studio/visualisation/261924/
